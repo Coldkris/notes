@@ -13,6 +13,7 @@ JRE_HOME=/home/ewallet/soft/jdk1.8.0_151/jre
 PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin  
 CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar:$JRE_HOME/lib  
 export JAVA_HOME JRE_HOME PATH CLASSPATH
+
 ```
 
 使用命令使得配置立刻生效：source /etc/profile
