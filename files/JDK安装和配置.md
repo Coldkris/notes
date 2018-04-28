@@ -7,7 +7,7 @@
 
 **sudo vim /etc/profile**
 <p>将以下配置增加至profile文件末尾</p>
-```java
+```
 JAVA_HOME=/home/ewallet/soft/jdk1.8.0_151
 JRE_HOME=/home/ewallet/soft/jdk1.8.0_151/jre 
 PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin  
